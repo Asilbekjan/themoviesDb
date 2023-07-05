@@ -1,0 +1,11 @@
+/* .main_card{
+    width: 100px;
+} */
+.peple_card_component {
+    width: calc(100% / 5 - 2px);
+    margin: 1px;
+}
+.something{
+    color: rgb(14, 75, 75);
+    font-size: 13px;
+}

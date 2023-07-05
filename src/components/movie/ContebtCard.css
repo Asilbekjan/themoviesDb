@@ -1,0 +1,19 @@
+.content-card-component{
+    width: calc(100% / 5 - 10px);
+    margin: 5px;
+    /* height: 231px; */
+
+}
+.description{
+    font-size: 12px;
+    font-weight: 700;
+}
+.description:hover{
+    color: rgb(25, 25, 200);
+}
+.main_card{
+    height: 261px;
+}
+.desciription_1{
+    font-size: 13px;
+}
